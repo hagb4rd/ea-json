@@ -1,0 +1,28 @@
+{
+  "name": "ea-json",
+  "version": "1.0.0",
+  "description": "json stringify and parse typed data restoring appropriate class on Date Buffer and any class implementing a static fromJSON method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagb4rd/ea-json.git"
+  },
+  "keywords": [
+    "serialize",
+    "deserialize",
+    "json",
+    "parse",
+    "stringify",
+    "type",
+    "type-safe"
+  ],
+  "author": "hagb4rd@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hagb4rd/ea-json/issues"
+  },
+  "homepage": "https://github.com/hagb4rd/ea-json#readme"
+}
